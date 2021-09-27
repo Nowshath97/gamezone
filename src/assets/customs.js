@@ -1,5 +1,5 @@
 function myTest() {
-    alert('Welcome to custom js');
+    alert('Welcome to custom java script');
 }
 
 $(function() {
@@ -18,3 +18,11 @@ app.controller('exampleController', [function() {
 function myFunction() {
   alert("Iam from javascript");
 }
+
+function gitTest() {
+    alert('Welcome to GIT testing');
+}
+
+$(function() {
+    alert('Hello, custom git commit');
+});
